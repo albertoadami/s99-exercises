@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P04Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P08Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P01Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P12Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P03Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P06Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P10Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P11Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P02Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P05Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P07Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(it.adami.exercise.list.P09Spec, org.scalatest.tools.Framework$$anon$1@2ea9f175, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 469 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 12[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 12, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 12, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P05Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P07Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P11Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P06Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P04Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P10Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P01Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P03Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P12Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P08Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P09Spec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	it.adami.exercise.list.P02Spec[0m

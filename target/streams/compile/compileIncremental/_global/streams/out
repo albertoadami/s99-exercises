@@ -1,0 +1,72 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P10.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P12.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P11.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P09.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P08.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/albertoadami/repos/s99-exercises/target/scala-2.13/classes/it/adami/exercise/list/P08.class, /Users/albertoadami/repos/s99-exercises/target/scala-2.13/classes/it/adami/exercise/list/P08$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(it.adami.exercise.list.P08)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P08.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(it.adami.exercise.list.P08)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P12.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P11.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P09.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P08.scala, /Users/albertoadami/repos/s99-exercises/src/main/scala/it/adami/exercise/list/P10.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: it.adami.exercise.list.P08[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 5 Scala sources to /Users/albertoadami/repos/s99-exercises/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.9[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.4:compile for Scala 2.13.9[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 9d6c403 for Scala compiler version 2.13.9[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/classes:/Users/albertoadami/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.9/scala-library-2.13.9.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/albertoadami/repos/s99-exercises/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.562956813 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from it.adami.exercise.list.P11...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: it.adami.exercise.list.P11[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(it.adami.exercise.list.P11)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(it.adami.exercise.list.P11,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(P11,[Default]), UsedName(encodeModified,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]))) invalidates 1 classes due to The it.adami.exercise.list.P11 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(P11,[Default]), UsedName(encodeModified,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(it.adami.exercise.list.P11)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from it.adami.exercise.list.P10...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: it.adami.exercise.list.P10[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(it.adami.exercise.list.P10)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(it.adami.exercise.list.P10,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(encode,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(P10,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]))) invalidates 1 classes due to The it.adami.exercise.list.P10 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(encode,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(P10,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(it.adami.exercise.list.P10)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from it.adami.exercise.list.P12...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: it.adami.exercise.list.P12[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(it.adami.exercise.list.P12)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(it.adami.exercise.list.P12,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(decode,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(decodeTail,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(P12,[Default]), UsedName(decodeFunctional,[Default]))) invalidates 1 classes due to The it.adami.exercise.list.P12 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(decode,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(decodeTail,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(P12,[Default]), UsedName(decodeFunctional,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(it.adami.exercise.list.P12)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from it.adami.exercise.list.P09...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: it.adami.exercise.list.P09[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(it.adami.exercise.list.P09)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of it.adami.exercise.list.P10: Set(UsedName(P09,[Default]), UsedName(pack,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of it.adami.exercise.list.P11: Set(UsedName(P09,[Default]), UsedName(==,[Default]), UsedName(pack,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(it.adami.exercise.list.P09,ModifiedNames(changes = UsedName(notifyAll,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(P09,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(pack,[Default]))) invalidates 3 classes due to The it.adami.exercise.list.P09 has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(notifyAll,[Default]), UsedName(equals,[Default]), UsedName(clone,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(P09,[Default]), UsedName(eq,[Default]), UsedName(synchronized,[Default]), UsedName(==,[Default]), UsedName(getClass,[Default]), UsedName(hashCode,[Default]), UsedName(ne,[Default]), UsedName(wait,[Default]), UsedName(toString,[Default]), UsedName(!=,[Default]), UsedName(finalize,[Default]), UsedName(asInstanceOf,[Default]), UsedName(##,[Default]), UsedName(pack,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(it.adami.exercise.list.P09)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(it.adami.exercise.list.P10, it.adami.exercise.list.P11)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
